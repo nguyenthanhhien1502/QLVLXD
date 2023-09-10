@@ -1,0 +1,15 @@
+C:\Users\acer\source\repos\QLVatLieuXayDung22\QLVatLieuXayDung.Common\bin\Debug\net5.0\QLVatLieuXayDung.Common.deps.json
+C:\Users\acer\source\repos\QLVatLieuXayDung22\QLVatLieuXayDung.Common\bin\Debug\net5.0\QLVatLieuXayDung.Common.dll
+C:\Users\acer\source\repos\QLVatLieuXayDung22\QLVatLieuXayDung.Common\bin\Debug\net5.0\ref\QLVatLieuXayDung.Common.dll
+C:\Users\acer\source\repos\QLVatLieuXayDung22\QLVatLieuXayDung.Common\bin\Debug\net5.0\QLVatLieuXayDung.Common.pdb
+C:\Users\acer\source\repos\QLVatLieuXayDung22\QLVatLieuXayDung.Common\obj\Debug\net5.0\QLVatLieuXayDung.Common.csproj.AssemblyReference.cache
+C:\Users\acer\source\repos\QLVatLieuXayDung22\QLVatLieuXayDung.Common\obj\Debug\net5.0\QLVatLieuXayDung.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\source\repos\QLVatLieuXayDung22\QLVatLieuXayDung.Common\obj\Debug\net5.0\QLVatLieuXayDung.Common.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\QLVatLieuXayDung22\QLVatLieuXayDung.Common\obj\Debug\net5.0\QLVatLieuXayDung.Common.AssemblyInfo.cs
+C:\Users\acer\source\repos\QLVatLieuXayDung22\QLVatLieuXayDung.Common\obj\Debug\net5.0\QLVatLieuXayDung.Common.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\QLVatLieuXayDung22\QLVatLieuXayDung.Common\obj\Debug\net5.0\QLVatLieuXayDung.Common.dll
+C:\Users\acer\source\repos\QLVatLieuXayDung22\QLVatLieuXayDung.Common\obj\Debug\net5.0\ref\QLVatLieuXayDung.Common.dll
+C:\Users\acer\source\repos\QLVatLieuXayDung22\QLVatLieuXayDung.Common\obj\Debug\net5.0\QLVatLieuXayDung.Common.pdb
+C:\Users\acer\source\repos\QLVatLieuXayDung22\QLVatLieuXayDung.Common\bin\Debug\net5.0\QLVatLieuXayDung.Common.runtimeconfig.json
+C:\Users\acer\source\repos\QLVatLieuXayDung22\QLVatLieuXayDung.Common\bin\Debug\net5.0\QLVatLieuXayDung.Common.runtimeconfig.dev.json
+C:\Users\acer\source\repos\QLVatLieuXayDung22\QLVatLieuXayDung.Common\obj\Debug\net5.0\QLVatLieuXayDung.Common.genruntimeconfig.cache
